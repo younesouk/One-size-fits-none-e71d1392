@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+}
+
+h2 {
+	color: blue;
+}
+
+li{
+	color: green;
+}
+
+body {
+	background-color: skyblue;
+}
+
+img{
+	width: 300px;
+}
